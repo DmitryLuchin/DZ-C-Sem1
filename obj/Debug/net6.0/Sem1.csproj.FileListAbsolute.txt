@@ -1,0 +1,15 @@
+D:\C#\Sem1\bin\Debug\net6.0\Sem1.exe
+D:\C#\Sem1\bin\Debug\net6.0\Sem1.deps.json
+D:\C#\Sem1\bin\Debug\net6.0\Sem1.runtimeconfig.json
+D:\C#\Sem1\bin\Debug\net6.0\Sem1.dll
+D:\C#\Sem1\bin\Debug\net6.0\Sem1.pdb
+D:\C#\Sem1\obj\Debug\net6.0\Sem1.csproj.AssemblyReference.cache
+D:\C#\Sem1\obj\Debug\net6.0\Sem1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Sem1\obj\Debug\net6.0\Sem1.AssemblyInfoInputs.cache
+D:\C#\Sem1\obj\Debug\net6.0\Sem1.AssemblyInfo.cs
+D:\C#\Sem1\obj\Debug\net6.0\Sem1.csproj.CoreCompileInputs.cache
+D:\C#\Sem1\obj\Debug\net6.0\Sem1.dll
+D:\C#\Sem1\obj\Debug\net6.0\refint\Sem1.dll
+D:\C#\Sem1\obj\Debug\net6.0\Sem1.pdb
+D:\C#\Sem1\obj\Debug\net6.0\Sem1.genruntimeconfig.cache
+D:\C#\Sem1\obj\Debug\net6.0\ref\Sem1.dll
